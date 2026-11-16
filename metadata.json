@@ -1,0 +1,6 @@
+{
+  "name": "LawWithAmit — Australian Immigration & Legal Counsel",
+  "description": "Official practice website for Amit (@lawwithamit), Australian immigration and legal counsel showcasing verified visa approvals, tribunal wins, and client consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
